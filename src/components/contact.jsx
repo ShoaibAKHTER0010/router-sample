@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contact = () => {
   return (
-    <section className="bg-gray-100 py-16 ">
+    <section className="bg-gray-200 py-16 ">
       <div className="container mx-auto">
         <div className="flex flex-col items-center justify-center">
           <h2 className="text-3xl font-bold mb-8 text-center">Contact Us</h2>
@@ -40,13 +40,13 @@ const Contact = () => {
                   id="message"
                   name="message"
                   rows="4"
-                  className="w-full px-4 py-2 border rounded-md focus:outline-none focus:border-blue-500"
+                  className="w-full px-4 py-2 border rounded-md focus:outline-none focus:border-blue-550"
                   placeholder="Your Message"
                 ></textarea>
               </div>
               <button
                 type="submit"
-                className="bg-blue-500 text-white px-6 py-3 rounded-md hover:bg-blue-700 transition-all duration-300"
+                className="bg-blue-600 text-white px-6 py-3 rounded-md hover:bg-blue-700 transition-all duration-300"
               >
                 Send Message
               </button>

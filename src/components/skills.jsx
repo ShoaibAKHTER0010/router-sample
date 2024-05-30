@@ -3,7 +3,7 @@ import React from 'react';
 const Skills = () => {
   return (
     <section className='w-full'>
-      <h3 className=' text-3xl font-bold text-gray-800 text-center p-8'>Skills Waiting For You</h3>
+      <h3 className=' text-3xl font-bold text-gray-900 text-center p-8'>Skills Waiting For You</h3>
       <main className="flex shadow-md">
         <div className="bg-white p-6 rounded-md max-w-sm mx-auto hover:shadow-lg">
       <img
@@ -23,8 +23,8 @@ const Skills = () => {
         alt="Card"
       />
       <h2 className="text-xl font-bold mb-2">Graphic-design</h2>
-      <p className="text-gray-600">short term corse 3-months.</p>
-      <p className="text-gray-600 font-bold">Pkr-3000/month</p>
+      <p className="text-gray-700">short term corse 3-months.</p>
+      <p className="text-gray-700 font-bold">Pkr-3000/month</p>
     </div>
 
     <div className="bg-white p-6 rounded-md max-w-sm mx-auto hover:shadow-lg">
