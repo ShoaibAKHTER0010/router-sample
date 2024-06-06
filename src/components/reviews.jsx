@@ -4,17 +4,17 @@ const Reviews = () => {
   const reviews = [
     {
       id: 1,
-      author: 'Azkar',
+      author: 'mir',
       content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     },
     {
       id: 2,
-      author: 'Iqtidar',
+      author: 'ahmad',
       content: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
     },
     {
         id: 3,
-        author: 'Shoaib',
+        author: 'khalid',
         content: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
       },
     // Add more reviews as needed
